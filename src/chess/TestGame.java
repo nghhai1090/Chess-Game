@@ -2,7 +2,7 @@ package chess;
 
 import java.awt.Point;
 
-public class Test {
+public class TestGame {
     public static void main(String[]args) {
     GamePlay g= new GamePlay();
     //Board b = g.newBoard("BL", "R");
